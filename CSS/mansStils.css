@@ -1,9 +1,4 @@
-    .divcenter{
-  width: 50%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-direction: column;
+ 
 }     
 #mySidebar {
     color: #610C0C;
@@ -14,13 +9,8 @@
     justify-content: center;
 }
 
-#pla {
-    display: flex; 
-    text-align: center;
-    justify-content: center; 
-}       
   .otrais {
-background-color: rgba(234, 149, 149, 0.673);
+background-color: #efd2d2;
   
   }
 .centrs {
