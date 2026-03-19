@@ -3,4 +3,9 @@ background-color:#ffeaeb!important;
 }
 p {
 font-family: Garamond, serif;
+font-size: 20px;  
+}
+.w3-sidebar {
+background-color: #610C0C;
+  color: white;
 }
