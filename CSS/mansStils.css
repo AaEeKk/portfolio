@@ -1,3 +1,18 @@
 .index {
-background-color:#efd2d2 !important;
+background-color:#f5dfdf !important;
+}
+
+#mySidebar {
+    background-color: #610C0C !important; /* dark red */
+    color: white !important;               /* text color for headings etc */
+}
+
+/* Sidebar links */
+#mySidebar a {
+    color: #efd2d2 !important;            /* link text color */
+}
+
+/* Optional: link hover color */
+#mySidebar a:hover {
+    background-color: #8B1A1A !important; /* darker shade when hovering */
 }
