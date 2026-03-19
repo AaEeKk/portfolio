@@ -4,6 +4,7 @@
   align-items: center;
   justify-content: center;
   flex-direction: column;
+}       
 #imgpla {
     display: flex; 
     justify-content: center;
