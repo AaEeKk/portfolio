@@ -6,6 +6,6 @@ font-family: Garamond, serif;
 font-size: 20px;  
 }
 .w3-sidebar {
-background-color: #610C0C;
-  color: white;
+background: #610C0C!important;
+  color: white!important;
 }
