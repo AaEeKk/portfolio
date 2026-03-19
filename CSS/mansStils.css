@@ -4,7 +4,11 @@
   align-items: center;
   justify-content: center;
   flex-direction: column;
-}       
+}     
+#mySidebar {
+    color: #610C0C;
+}
+
 #imgpla {
     display: flex; 
     justify-content: center;
